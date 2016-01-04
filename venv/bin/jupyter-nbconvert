@@ -1,0 +1,6 @@
+#!/Users/kelsey/projects/deepDream/venv/bin/python2.7
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,8 @@
+#!/Users/kelsey/projects/deepDream/venv/bin/python2.7
+
+def main():
+    from nbformat.sign import TrustNotebookApp
+    TrustNotebookApp.launch_instance()
+
+if __name__ == '__main__':
+    main()
